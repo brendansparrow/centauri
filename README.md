@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Centauri is a system devised for combining multiple typefaces. Many typographic resources recommend limiting yourself to just one or two fonts in any design. This was designed to help students understand the many options available to them when setting just one typeface, let alone a number of them together, but is often misunderstood and followed too strictly by many novice designers.
+Centauri is a system devised for combining multiple typefaces. Many typographic resources recommend picking just one or two fonts for any design. This limitation was designed to help students understand the many options available to them when setting just one typeface, let alone a number of them together, but is often misunderstood and followed too strictly by many novice designers.
 
-The aim of this project is to educate designers (and non-designers alike) about the art of combining typefaces: how you can use multiple fonts together to convey meaning while still maintaining a harmonious relationship between all elements of your design. Combining typefaces brings its own set of challenges and is often a matter of taste, which can be honed through experience and practice. Hopefully, by the end of this guide you will have gained a solid understanding of typography and typesetting—particularly font combination—and will be better equipped to make confident design decisions when selecting your own typefaces.
+The aim of this project is to educate designers (and non-designers alike) about the art of combining typefaces: how you can use multiple fonts to convey meaning while still maintaining a harmonious relationship between all elements of your design. Pairing typefaces can be quite challenging. It is often a matter of taste, honed through experience and practice, but it is a very rewarding way to elevate your design skills. Hopefully, by the end of this guide you will have gained a solid understanding of typography and typesetting—particularly font combination—and will be better equipped to make confident design decisions when selecting your own typefaces.
 
 ## Name
 
