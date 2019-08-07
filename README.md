@@ -14,12 +14,14 @@ The name for the project was inspired by [Alpha Centauri](https://en.wikipedia.o
 ## Roadmap
 
 - An Introduction to Typography
+- Legibility and Readability
+- Contrast and Visual Hierarchy
 - Choosing Typefaces
 - Getting the Most out of a Single Type Family
 - Type Classification
-- What Guide to Font Pairing?
-- Contrast and Visual Hierarchy in Typography
+- Guide to Font Pairing
 - A Catalogue of Popular Font Combinations
+  - [Codepen Examples](https://codepen.io/brendansparrow/pen/KOQyVp)
 - Putting Together a Type Palette
 
 ## Resources
